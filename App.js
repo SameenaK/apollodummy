@@ -58,7 +58,7 @@ export default class App extends Component<Props> {
   render() {
 
     const client = new ApolloClient({
-      uri: "http://localhost:8080/graphql"
+      uri: "http://localhost:8080/graphql4
       // uri: "https://w5xlvm3vzz.lp.gql.zone/graphql"
     });
 
